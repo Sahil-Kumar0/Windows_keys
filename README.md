@@ -52,9 +52,13 @@ Step 3: slmgr /skas kms8.msguides.com
 Step 4: slmgr /ato
 
 slmgr /ipk 2WHAN-8QGBV-H223P-CT43Q-MDMM
+
 slmgr /ipk NPPR9-FMDCX-D2C83-H872K-2YT43
+
 slmgr /ipk DPH2V-TTNVB-4X9Q3-TJRAH-KHJW4
+
 Note: If you see the error 0x80070005, it means the server is busy. Please try the command
+
 ----------------------->>>----------------------->>>---------------------->>>------------------------>>>---------------------
 How To Activate Windows 10 Free
 
