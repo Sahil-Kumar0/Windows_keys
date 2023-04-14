@@ -22,7 +22,7 @@ How To Activate Windows 11 Free
 
 Step 1. Click Start and type cmd, right-click Command Prompt app and choose Run as administrator.
 
-Step 2. Copy and paste the following command line in Command Prompt window and hit Enter. If you buy or find the activation key for Windows 10 Pro, you can replace "Windows 10 license key" in the command line after slmgr /ipk.
+Step 2. Copy and paste the following command line in Command Prompt window and hit Enter. If you buy or find the activation key for Windows 10/11 Pro, you can replace "Windows 10/11 license key" in the command line after slmgr /ipk.
 
 slmgr /ipk <Windows 10 license key>
 
