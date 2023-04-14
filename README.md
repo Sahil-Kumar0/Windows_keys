@@ -1,5 +1,15 @@
 # Windows_keys
 
+step 1. You can press Windows + R key on the keyboard to open Windows Run box. Type cmd, and press Ctrl + Shift + Enter to open and run Windows Command Prompt as administrator.
+
+step 2. slmgr.vbs /upk 
+
+step 3. slmgr /ipk <Windows 10 activation key>
+
+step 4. slmgr /skms zh.us.to
+
+step 5. slmgr /ato
+
 Windows activation
 
 slmgr /ipk license
@@ -9,6 +19,18 @@ slmgr/skms kms8.msguides.com
 slmgr/ato
 
 How To Activate Windows 11 Free
+
+Step 1. Click Start and type cmd, right-click Command Prompt app and choose Run as administrator.
+
+Step 2. Copy and paste the following command line in Command Prompt window and hit Enter. If you buy or find the activation key for Windows 10 Pro, you can replace "Windows 10 license key" in the command line after slmgr /ipk.
+
+slmgr /ipk <Windows 10 license key>
+
+Step 3. Type the following command lines and remember to hit Enter after you type each line.
+
+slmgr /skms kms.xspace.in
+
+slmgr /ato
 
 Step 1: Open Command Prompt as Administrator
 
