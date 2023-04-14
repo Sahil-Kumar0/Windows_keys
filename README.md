@@ -1,5 +1,7 @@
 # Windows_keys
 
+If you want to check whether your Windows 10 computer is activated or not, you can press Windows + R keys on the keyboard to open Run box, type slmgr.vbs -xpr in Run box and hit Enter.
+
 step 1. You can press Windows + R key on the keyboard to open Windows Run box. Type cmd, and press Ctrl + Shift + Enter to open and run Windows Command Prompt as administrator.
 
 step 2. slmgr.vbs /upk 
